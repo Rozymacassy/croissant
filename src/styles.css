@@ -1,5 +1,14 @@
-.croissant{
+body{
+    background-color:rgb(243, 41, 81);
+    color: #fff;
+    margin:20px;
     
-    width:500px;
- 
+}
+.link{
+color:cornsilk
+}
+
+.link:hover{
+color: rgb(87, 9, 9);
+font-weight: 500;
 }
